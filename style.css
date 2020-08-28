@@ -53,3 +53,22 @@ h4{
 .vizimg {
     width: 500px
 }
+
+.compcol {
+    background-color: white;
+}
+
+.compimg {
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    nav.navbar {
+      background: darkgrey;
+    }
+
+    body {
+        background-color:  #33454B;
+     }
+
+    }
