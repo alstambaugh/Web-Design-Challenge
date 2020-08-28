@@ -62,6 +62,20 @@ h4{
     width: 100%;
 }
 
+.table {
+    background-color: white;
+
+}
+
+.datahead {
+    margin-top: 40px;
+}
+
+.tablehead {
+    background-color: #33454B;
+    color: white;
+}
+
 @media (max-width: 768px) {
     nav.navbar {
       background: darkgrey;
